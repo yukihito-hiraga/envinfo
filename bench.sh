@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd ~
 mkdir -p result
 cd result
 
